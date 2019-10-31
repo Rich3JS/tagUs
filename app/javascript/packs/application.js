@@ -24,3 +24,10 @@ container.classList.add('right-panel-active'));
 
 signInButton.addEventListener('click', () =>
 container.classList.remove('right-panel-active'));
+
+var value = document.getElementById("ElementID1");
+console.log(value);
+var value = document.getElementById("ElementID2");
+console.log(value);
+var value = document.getElementById("ElementID3");
+console.log(value);
